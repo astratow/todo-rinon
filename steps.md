@@ -1,4 +1,10 @@
-# check node version before running server!
+# check node version before running server!.7
+
+```
+node -v
+nvm list
+nvm use 18.17.0
+```
 
 create /style/tailwind.css  and add 
 ```

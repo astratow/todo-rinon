@@ -1,8 +1,8 @@
 // import Head from 'next/head'
 // import Image from 'next/image'
 import { useState } from 'react';
-import styles from '../styles/Home.module.css'
-import Header from '../components/header'
+import styles from '../src/styles/Home.module.css'
+import Header from '../src/components/header'
 
 export default function Home() {
   const [items, setItems] = useState([

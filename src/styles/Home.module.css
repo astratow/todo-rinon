@@ -127,3 +127,7 @@
     filter: invert(1);
   }
 }
+.add-btn {
+  border-radius: 40%;
+  background-color: crimson;
+}
